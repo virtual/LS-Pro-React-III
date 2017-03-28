@@ -19,7 +19,7 @@
 	* Create a file called `Body.js`.
 	* `<Body />` will be a container for the `<Card />` components you create.
 	* Try to emulate Instagram's layout for their cards.  
-  * Try creating multiple components to handle each part of Instagram's cards.  For example: a component for the likes count, a component for a comments container, a component for each comment, an image component, a separte image component for the author, etc.
+  	* Try creating multiple components to handle each part of Instagram's cards.  For example: a component for the likes count, a component for a comments container, a component for each comment, an image component, a separte image component for the author, etc.
 	* Don't worry about the functionality.  Just try to emulate the appearance.
 
 
