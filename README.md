@@ -4,9 +4,9 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* propTypes
-	* .map()
-	* setInterval and setTimeout
+	* propTypes - defines the type of variable expected to be passed into a React function's properties
+	* .map() - runs a function over an array to iterate on each element
+	* setInterval and setTimeout - setInterval repeats a function, setTimeout will cancel setInterval when set to an variable
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
