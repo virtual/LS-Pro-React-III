@@ -7,7 +7,6 @@
 	* propTypes
 	* .map()
 	* setInterval and setTimeout
-	* setState - setState with a callback function and setState with an object passed in
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
