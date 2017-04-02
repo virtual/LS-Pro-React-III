@@ -3,33 +3,30 @@ const posts = [
         time: ("2015-03-28"),
         author: {
             "_id": "58e165cb39b522f2a44d0a1d",
-            "picture": "http://placehold.it/32x32",
+            "picture": "https://placeholdit.imgix.net/~text?txtsize=30&txt=epic&w=100&h=100&bg=f33&txtclr=000000",
             "name": {
                 "first": "Bentley",
                 "last": "Mathis"
             },
             "about": "Deserunt adipisicing et exercitation cupidatat.",
-            "username": "comtest"
+            "username": "epicfx"
         },
         picture: 'http://satinflame.com/wp-content/uploads/2017/03/IMG_6606-768x512.jpg',
-        content: 'mew mew mew',
+        content: 'Ready for our dinner, then off to Cirque',
         comments: [
             {
-                user: 'catsmeow',
+                user: 'graphical',
                 comment: 'wow that is great'
             }, {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }, {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }
+                user: 'PrinceCaspian',
+                comment: 'Love this! <3'
+            } 
         ]
     }, {
         time: ("2015-03-25"),
         author: {
             "_id": "58e165cb53df5525e044ddbc",
-            "picture": "http://placehold.it/32x32",
+            "picture": "https://placeholdit.imgix.net/~text?txtsize=30&txt=lux&w=100&h=100&bg=face8d&txtclr=000000",
             "name": {
                 "first": "Moon",
                 "last": "Moore"
@@ -38,17 +35,11 @@ const posts = [
             "username": "zenolux"
         },
         picture: 'http://satinflame.com/wp-content/uploads/2017/03/IMG_0181-1024x683.jpg',
-        content: 'mew mew mew',
+        content: 'The mountains near Yellowstone are fantastic!',
         comments: [
             {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }, {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }, {
-                user: 'catsmeow',
-                comment: 'wow that is great'
+                user: 'LightsOut',
+                comment: 'I can\'t wait to see this!'
             }
         ]
     }, {
@@ -64,18 +55,9 @@ const posts = [
             "username": "zytrac"
         },
         picture: 'http://satinflame.com/wp-content/uploads/2017/03/IMG_0259-1024x683.jpg',
-        content: 'mew mew mew',
+        content: 'Amazing #helos',
         comments: [
-            {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }, {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }, {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }
+             
         ]
     }, {
         time: ("2015-03-21"),
@@ -91,18 +73,12 @@ const posts = [
             "username": "unia"
         },
         picture: 'http://satinflame.com/wp-content/uploads/2017/03/IMG_5708-1024x683.jpg',
-        content: 'mew mew mew',
+        content: 'cake for everyone :D :D',
         comments: [
             {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }, {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }, {
-                user: 'catsmeow',
-                comment: 'wow that is great'
-            }
+                user: 'epicfx',
+                comment: 'nomnom'
+            } 
         ]
     }
 ];
