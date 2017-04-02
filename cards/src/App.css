@@ -8,3 +8,8 @@ float:left; border-radius: 50%;}
 .author p {  color:#125688; font-weight: bold; }
 .author p a { color:inherit; text-decoration: none;}
 .time-post { float:right;color:#585858;}
+.social-links { margin: 0; padding: 10px 0;}
+.social-links li {display: inline;}
+.social-links li a { color:#585858;}
+.card-content { padding: 10px 15px;}
+.card { margin-bottom:35px; border: 1px solid #ddd;}

@@ -7,10 +7,12 @@ class Card extends Component {
     render() {
         return (
             <div className='card'>
-                <Author/>
-                <img src='http://satinflame.com/wp-content/uploads/2017/03/IMG_6606-768x512.jpg' alt='' />
-
-                <Social />
+                <Author author={this.props.author} time={this.props.time}/>
+                <img src={this.props.picture} alt='' />
+                <div className="card-content">
+                    <p><strong>{this.props.author}</strong> {this.props.content}</p>
+                    <Social />
+                </div>
             </div>
         );
     }
